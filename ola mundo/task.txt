@@ -1,0 +1,11 @@
+1 - Crie um arquivo chamado ola.js
+2 - Faça com que esse arquivo exiba no console o texto "Olá mundo"
+3 - Como desafio você pode criar uma variavel "nome" e atribuir seu nome a essa variavel
+4 - Exiba no console o texto "Olá {seu nome aqui}" // por exemplo "Olá João"
+
+
+
+Material de estudo:
+
+http://embuscadocodigo.com/codigos/javascript/ola-mundo-com-javascript.html
+
