@@ -1,0 +1,23 @@
+# Material de estudo#
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals
+
+
+# DESAFIO #
+
+1 - Crie um arquivo chamado variaveis.js
+2 - Crie a variavel "idade" que receberá um valor inteiro de uma idade
+3 - Crie a variavel "nome" que receberá o nome em texto
+4 - Crie a variavel "peso" que receberá o peso em formato decimal
+5 - Crie a variavel "estudante" que receberá o valor "true" se for estudante e "false" se não for
+6 - Exiba no console o texto "Seu nome é {nome}, sua idade é {idade} anos, seu peso é {peso} kilos e a opção para estudante é {estudante}"
+
+EXEMPLO:
+
+José
+35
+90.5
+false
+"Seu nome é José, sua idade é 35 anos, seu peso é 90.5 kilos e a opção para estudante é false"
